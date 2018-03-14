@@ -8,7 +8,7 @@ export default class App extends React.Component {
     return (
       <View style={styles.container}>
         <Text style={{color: 'red'}}>Welcome to snaphole</Text>
-        <Text>Shake your phone to open the developer menu.</Text>
+        <Text>Shake your phone to open the developer menu. Test</Text>
         <Camera />
       </View>
     );
